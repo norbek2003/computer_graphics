@@ -1,5 +1,7 @@
 # A Basic Graphics Engine
 
+## Ian Williams, Period 10
+
 ## Language Syntax
 
 ### General
